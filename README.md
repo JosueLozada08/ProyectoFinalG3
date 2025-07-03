@@ -6,7 +6,7 @@ Proyecto desarrollado para la materia **ISWZ3208 - Calidad de Software**, enfoca
 
 - Gustavo Caicedo  
 - Ismael Corrales  
-- Wilson Lozada  
+- Josue Lozada  
 - Alejandro Haro
 
 ## 📁 Estructura del Proyecto
